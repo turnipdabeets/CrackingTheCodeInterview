@@ -6,6 +6,8 @@ import Foundation
 
 //: ### Design an algorithm to find the first common ancestor of two nodes in a binary tree. Avoid storing additional nodes in a data structure. Note: This is not necessarily a binary search tree.
 
+//https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/142/conclusion/1012/
+
 //https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/
 
 

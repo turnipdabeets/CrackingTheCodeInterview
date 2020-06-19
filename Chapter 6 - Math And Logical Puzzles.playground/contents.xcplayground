@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='5.1 The Heavy Pill'/>
+        <page name='5.2 Basketball'/>
+        <page name='5.3 Dominos'/>
+        <page name='5.4 Ants on a Triangle'/>
+        <page name='5.5 Jugs of Water'/>
+        <page name='6.6 Blue-Eyed Island'/>
+        <page name='6.7 The Apocalypse'/>
+        <page name='6.8 The Egg Drop Problem'/>
+        <page name='6.9 100 Lockers'/>
+        <page name='6.10 Poison'/>
+    </pages>
+</playground>

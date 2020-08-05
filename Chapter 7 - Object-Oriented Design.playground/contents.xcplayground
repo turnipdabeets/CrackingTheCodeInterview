@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='7.1 Deck of Cards'/>
+        <page name='7.2 Call Center'/>
+        <page name='7.3 Jukebox'/>
+        <page name='7.4 Parking Lot'/>
+        <page name='7.5 Online Book Reader'/>
+        <page name='7.6 Jigsaw'/>
+        <page name='7.7 Chat Server'/>
+        <page name='7.8 Othello'/>
+        <page name='7.9 Circular Array'/>
+        <page name='7.10 Minesweeper'/>
+        <page name='7.11 File System'/>
+        <page name='7.12 Hash Table'/>
+    </pages>
+</playground>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='8.1 Triple Step'/>
+        <page name='8.2 Robot in Grid'/>
+        <page name='8.3 Magic Index'/>
+        <page name='8.4 Power Set'/>
+        <page name='8.5 Recursive Multiply'/>
+        <page name='8.6 Towers of Hanoi'/>
+        <page name='8.7 Permutations without Dups'/>
+        <page name='8.8 Permutations with Duplicates'/>
+        <page name='8.9 Parens'/>
+        <page name='8.10 Paint Fill'/>
+        <page name='8.11 Coins'/>
+        <page name='8.12 Eight Queens'/>
+        <page name='8.13 Stack of Boxes'/>
+        <page name='8.14 Boolean Evaluation'/>
+    </pages>
+</playground>
